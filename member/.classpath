@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="WEB-INF/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/servlet-api.jar" sourcepath="SOURCE_ATTACHER/tomcat-servlet-api-9.0.44-sources-1616199849970.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jasper.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/jsp-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/el-api.jar"/>
+	<classpathentry kind="var" path="TOMCAT_HOME/lib/annotations-api.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/javax.servlet.jsp.jstl-1.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/javax.servlet.jsp.jstl-api-1.2.1.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/taglibs-standard-compat-1.2.5.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/taglibs-standard-impl-1.2.5.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar"/>
+	<classpathentry kind="lib" path="WEB-INF/lib/taglibs-standard-spec-1.2.5.jar"/>
+	<classpathentry kind="lib" path="/Applications/apache-tomcat-9.0.44/lib/mysql-connector-java-5.1.49-bin.jar"/>
+	<classpathentry kind="output" path="WEB-INF/classes"/>
+</classpath>
